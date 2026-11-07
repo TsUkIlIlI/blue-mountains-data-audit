@@ -1,0 +1,9 @@
+grid_id,target_date,fire_detection_count_raw,prescribed_burn_detection_count,eligible_fire_detection_count,fire_positive
+A,2030-01-30,0,0,0,0
+A,2030-01-31,2,0,2,1
+A,2030-02-01,1,1,0,0
+A,2030-02-02,0,0,0,0
+B,2030-01-30,1,0,1,1
+B,2030-01-31,0,0,0,0
+B,2030-02-01,3,1,2,1
+B,2030-02-02,0,0,0,0
